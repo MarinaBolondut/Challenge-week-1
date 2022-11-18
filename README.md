@@ -2,20 +2,18 @@
 
 ## Description 
 
-Refractoring and updating the webpage code with sematic tags, making it more clean respecting the Scout Route rule and structering the code and impoving the accesibility of the page.
-
+- Refractoring and updating the webpage code with sematic tags
+- Making it more clean respecting the Scout Route rule 
+- Structering the code and impoving the accesibility for people with disabilities as well as for developers to use the webpage.
+- Focusing on the following points: understand, navigate, and interct with the webpage.
+- Making the website usable by as many people as possible.
 
 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+- Clone the repository using the Terminal and the comand git clone
+- 
 
 
 
