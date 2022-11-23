@@ -10,10 +10,20 @@
 
 
 
-## Usage 
+## Built With
 
-- Clone the repository using the Terminal and the comand git clone
-- 
+- HTML
+- CSS
+
+## Getting Started
+
+- To get a local copy up and running follow these simple steps:
+     • Open your Terminal(Mac) or Git Bash (Windows)
+     • Go on the reposetory in Github and click on 'Clone'
+     • Copy the HTTPS link
+     • In your terminal enter "git clone" followed by the link you copied
+     
+
 
 
 
